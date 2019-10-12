@@ -17,10 +17,10 @@
       <pubDate>Fri, 11 Oct 2019 20:24:03 -0400</pubDate>
       
       <guid>https://avilior.github.io/posts/github-pages/</guid>
-      <description>Hosting Hugo Site on GitHub Pages
-I am hosting my Hugo generate static site on GitHub Pages.
+      <description>I am hosting my Hugo generate static site on GitHub Pages.
 My setup is as follows:
- My site repo is on GitHub Locally i have clone on my mac. As per the instructions here, I embed my avilior.github.io site as the public folder where hugo generates the site. I have a deploy.sh script that I use to deploy the site.  Site Generator Choice</description>
+ My site repo is on GitHub Locally i have clone on my mac. As per the instructions here, I embed my avilior.github.io site as the public folder where hugo generates the site. I have a deploy.sh script that I use to deploy the site.  Site Generator Choice
+Jekyll the grandfather of static site generator is tightly integrated with GitHub Pages but I started out with Hugo and choose to stay with it.</description>
     </item>
     
     <item>
