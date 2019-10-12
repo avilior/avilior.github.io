@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://lior.org/posts/github-pages/</loc>
+    <loc>https://avilior.github.io/posts/github-pages/</loc>
     <lastmod>2019-10-11T20:24:03-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lior.org/posts/</loc>
-    <lastmod>2019-10-11T20:24:03-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://lior.org/</loc>
+    <loc>https://avilior.github.io/posts/</loc>
     <lastmod>2019-10-11T20:24:03-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://lior.org/posts/in-the-beginning/</loc>
+    <loc>https://avilior.github.io/</loc>
+    <lastmod>2019-10-11T20:24:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://avilior.github.io/posts/in-the-beginning/</loc>
     <lastmod>2019-05-20T21:16:03-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lior.org/categories/</loc>
+    <loc>https://avilior.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://lior.org/tags/</loc>
+    <loc>https://avilior.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
